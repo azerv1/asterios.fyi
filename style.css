@@ -189,3 +189,7 @@ footer {
     flex-wrap: wrap;
   }
 }
+audio {
+  width: 100%;
+  margin-top: 10px;
+}
