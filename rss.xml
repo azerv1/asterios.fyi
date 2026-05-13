@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Asterios Zervos</title>
+  <link>https://asterios.fyi/</link>
+  <description>Documentaries, writings, music, software projects and visual art by Asterios Zervos.</description>
+  <language>en-us</language>
+
+  <item>
+    <title>Modest Musorgsky - Songs and Dances of Death</title>
+    <link>https://www.youtube.com/watch?v=Gd1Lgdtlw6A</link>
+    <description>An examination of Realism in nineteenth-century Russia and an analysis of Musorgsky's Songs and Dances of Death.</description>
+    <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Brahms at Ischl: Opp. 118 &amp; 119</title>
+    <link>https://www.youtube.com/watch?v=QQoxHRC1DCM</link>
+    <description>A positioning of Johannes Brahms in the Romantic context of late nineteenth-century Vienna, his life at Bad Ischl, and an analysis of his last solo piano compositions.</description>
+    <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>J. S. Bach at Potsdam: Musical Offering, BWV 1079</title>
+    <link>https://www.youtube.com/watch?v=Cq5OfuoIWLc</link>
+    <description>J. S. Bach visits Frederick the Great at Potsdam; months later, he dedicates to him one of the most extraordinary musical works in history.</description>
+    <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
+  </item>
+
+</channel>
+
+</rss>
